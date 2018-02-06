@@ -1,0 +1,5 @@
+"feedjit.com:4005": [{
+	"msg": "Resolution: 1280x800; ", 
+	"toURL": "ws://grm.feedjit.com:4005/fjlive/?w=trafficList&ign=0&wn=1&cen=1&nv=1&inu=1&pvid=1510516675212-7436300427207794&pvnum=1&tats=4&adseln=388&fl=0&vid=new&rn=0&lg=1&u=http%3A%2F%2Ffeedjit.com%2F&r=&t=Feedjit%20Free%20Live%20Traffic%20Feed&sw=1280&sh=800&pid=a0117352e993dfb4&wid=7ffe369ffa4ea809&proid=&fhst=feedjit.com&tft=2&wh=Live%20Traffic%20Feed&hl=0&hlnks=0&srefs=&hbars=&hfce=1&wne=&msum=4eaf574b&gid=0&flt=0&fv=1&tfen=1&flc=false&lu=0&isIE=0&oldB=0&mgen=&fjv=2&rand=81087100", "referer": "", 
+	"method": "GET", 
+	"data": "ws://grm.feedjit.com:4005/fjlive/?w=trafficList&ign=0&wn=1&cen=1&nv=1&inu=1&pvid=1510516675212-7436300427207794&pvnum=1&tats=4&adseln=388&fl=0&vid=new&rn=0&lg=1&u=http%3A%2F%2Ffeedjit.com%2F&r=&t=Feedjit%20Free%20Live%20Traffic%20Feed&sw=1280&sh=800&pid=a0117352e993dfb4&wid=7ffe369ffa4ea809&proid=&fhst=feedjit.com&tft=2&wh=Live%20Traffic%20Feed&hl=0&hlnks=0&srefs=&hbars=&hfce=1&wne=&msum=4eaf574b&gid=0&flt=0&fv=1&tfen=1&flc=false&lu=0&isIE=0&oldB=0&mgen=&fjv=2&rand=81087100"}]

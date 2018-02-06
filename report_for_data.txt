@@ -1,0 +1,82 @@
+Generating report for data/data.json...
+record count: 91780
+get count: 72436
+post count: 18931
+other count: 18
+post null count: 16089
+old post count:2842
+new post count: 4212
+fingerprint count: 76525
+get false positive: 141
+---------------------------------------------------
+The following is the collected attributes overall figure.
+Counter({'screen_resolution': 69748, 'browser_resolution': 39935, 'language': 19995, 'char_set': 18920, 'browser_name': 7403, 'os_version': 5329, 'browser_version': 4119, 'os_name': 3462, 'ip': 2228, 'user_agent': 1669, 'plugins': 896, 'city': 331, 'webgl_renderer': 41, 'webgl_version': 40, 'webgl_glsles': 35, 'gpu': 25, 'gpu_vendor': 24})
+---------------------------------------------------
+10 most collective toURLs ....
+toURL:  youtube.com collected 1647 records
+toURL:  adsafeprotected.com collected 1750 records
+toURL:  google.co.uk collected 2438 records
+toURL:  openx.net collected 2456 records
+toURL:  google.com collected 2655 records
+toURL:  rubiconproject.com collected 2733 records
+toURL:  moatads.com collected 5067 records
+toURL:  googlesyndication.com collected 8192 records
+toURL:  google-analytics.com collected 12242 records
+toURL:  doubleclick.net collected 12462 records
+---------------------------------------------------
+The average number of unique toURL per referer is 3.4250918492311877.
+Ten most active referers ...
+referer techeblog.com: sends data to 16 different toURLs.
+referer sacbee.com: sends data to 17 different toURLs.
+referer moneycontrol.com: sends data to 17 different toURLs.
+referer wbir.com: sends data to 17 different toURLs.
+referer adnxs.com: sends data to 19 different toURLs.
+referer kptv.com: sends data to 20 different toURLs.
+referer wptv.com: sends data to 22 different toURLs.
+referer hollywoodreporter.com: sends data to 24 different toURLs.
+referer doubleclick.net: sends data to 38 different toURLs.
+referer googlesyndication.com: sends data to 42 different toURLs.
+174 referers had only first party tracking.
+6209 referers had only third party tracking.
+966 referers had both first and third party tracking.
+---------------------------------------------------
+7349 domains in the data/data.json are sending fingerprint data.
+4188 websites are sending 4 attributes.
+270 websites are sending 1 attributes.
+667 websites are sending 5 attributes.
+1003 websites are sending 3 attributes.
+439 websites are sending 2 attributes.
+336 websites are sending 6 attributes.
+203 websites are sending 7 attributes.
+26 websites are sending 12 attributes.
+172 websites are sending 8 attributes.
+5 websites are sending 10 attributes.
+35 websites are sending 9 attributes.
+1 websites are sending 13 attributes.
+4 websites are sending 11 attributes.
+---------------------------------------------------
+The following domains are that contains more than 100 website sending info to 
+172 websites are sending information to domain: 2o7.net 
+1349 websites are sending information to domain: google.co.uk 
+3233 websites are sending information to domain: doubleclick.net 
+1377 websites are sending information to domain: google.com 
+506 websites are sending information to domain: omtrdc.net 
+388 websites are sending information to domain: adsafeprotected.com 
+498 websites are sending information to domain: openx.net 
+172 websites are sending information to domain: criteo.com 
+432 websites are sending information to domain: moatads.com 
+528 websites are sending information to domain: rubiconproject.com 
+879 websites are sending information to domain: quantserve.com 
+150 websites are sending information to domain: cloudfront.net 
+1117 websites are sending information to domain: googlesyndication.com 
+473 websites are sending information to domain: bing.com 
+276 websites are sending information to domain: baidu.com 
+115 websites are sending information to domain: krxd.net 
+5860 websites are sending information to domain: google-analytics.com 
+197 websites are sending information to domain: pubmatic.com 
+113 websites are sending information to domain: pinterest.com 
+212 websites are sending information to domain: bluekai.com 
+220 websites are sending information to domain: parsely.com 
+138 websites are sending information to domain: googleadservices.com 
+123 websites are sending information to domain: cnzz.com 
+end of the report
